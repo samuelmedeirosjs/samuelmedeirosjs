@@ -4,7 +4,7 @@ Meu nome é Samuel Medeiros
 
 Sou estudante de Engenharia de Software com experiência prática em desenvolvimento Front-end.
 
-Atuei em projetos pessoais e acadêmicos aplicando JavaScript, Typescript, ReactJS, NextJS, HTML e CSS.
+Atuei em projetos pessoais, acadêmicos e profissionais aplicando JavaScript, Typescript, ReactJS, NextJS, HTML e CSS.
 
 ### 🌍 Great is he who seeks his own ideas 🧠
 
