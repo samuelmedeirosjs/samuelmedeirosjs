@@ -14,12 +14,9 @@ light.svg">
 </div>
 <div align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/samuelmedeirosjs/samuelmedeirosjs/output/github-snake-dark.svg" />
- <source media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/samuelmedeirosjs/samuelmedeirosjs/output/github-snake.svg" />
- <img alt="Snake eating my contributions"
- src="https://raw.githubusercontent.com/samuelmedeirosjs/samuelmedeirosjs/output/github-snake.svg" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelmedeirosjs/samuelmedeirosjs/output/github-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelmedeirosjs/samuelmedeirosjs/output/github-snake.svg" />
+ <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/samuelmedeirosjs/samuelmedeirosjs/output/github-snake.svg" />
 </picture>
 </div>
 <div align="center">
@@ -31,7 +28,7 @@ light.svg">
  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:samuel.medeiros@gmail.com">
+<a href="mailto:samuel.medeiros014@gmail.com">
  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 </div>
